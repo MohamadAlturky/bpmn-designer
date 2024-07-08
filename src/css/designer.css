@@ -1,0 +1,26 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.warning {
+    background-color: #ff0000;
+}
+
+.warning:hover {
+    background-color: #ff003c !important;
+}
+
+.edit {
+    background-color: #00ff00;
+}
+
+.edit:hover {
+    background-color: #3eff5b !important;
+}
+
+.react-flow__panel a {
+    display: none;
+}
